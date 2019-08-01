@@ -1,0 +1,27 @@
+﻿<Window x:Class="Projects_Manager_Medexy.log_in_form"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Prisijungimas" 
+        Name="myMainWindow"
+        Width="340" Height="320">
+    <Grid Name="MainGrid" SizeChanged="MainGrid_SizeChanged">
+        <Grid.LayoutTransform>
+            <ScaleTransform x:Name="ApplicationScaleTransform"
+                            CenterX="0"
+                            CenterY="0"
+                            ScaleX="{Binding ElementName=myMainWindow, Path=ScaleValue}"
+                            ScaleY="{Binding ElementName=myMainWindow, Path=ScaleValue}" />
+        </Grid.LayoutTransform>
+        <Grid VerticalAlignment="Center" HorizontalAlignment="Center" Height="199" Margin="10" Width="259">
+            <Button x:Name="prisijungti_btn" Content="Prisijungti" VerticalAlignment="Top" Margin="10,119,10,0" Click="logIn_btn_Click" KeyboardNavigation.TabIndex="2"/>
+            <TextBox x:Name="Username_Tb" Height="23" Margin="119,53,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" KeyboardNavigation.TabIndex="0" KeyDown="Username_Tb_KeyDown" />
+            <Button Content="Uždaryti" VerticalAlignment="Top" Margin="10,169,10,0" Click="close_btn_Click" KeyboardNavigation.TabIndex="3"/>
+            <TextBlock Margin="0,10,0,0" TextWrapping="Wrap" Text="Įveskite savo vardą ir slaptažodį" VerticalAlignment="Top" FontSize="18"/>
+            <PasswordBox x:Name="Password_tb" Height="23" Margin="119,81,10,0"  VerticalAlignment="Top" KeyboardNavigation.TabIndex="1" KeyDown="Password_tb_KeyDown"/>
+            <Label Content="Vardas" Margin="66,53,145,0" VerticalAlignment="Top"/>
+            <Label Content="Slaptažodis
+                   " Margin="39,79,145,0" VerticalAlignment="Top"/>
+            <Button x:Name="NewuserBtn" Content="Pridėti naują vartotoją" VerticalAlignment="Top" Margin="10,144,10,0" Click="NewUserBtn_Click" KeyboardNavigation.TabIndex="2"/>
+        </Grid>
+    </Grid>
+</Window>

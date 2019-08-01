@@ -1,0 +1,396 @@
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe.config
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.pdb
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csprojAssemblyReference.cache
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy_MarkupCompile.cache
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy_MarkupCompile.lref
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.g.resources
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects_Manager_Medexy.Properties.Resources.resources
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.GenerateResource.cache
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.pdb
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\other_stuff\App.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\MainWindow.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\MainWindow.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\log_in_form.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\log_in_form.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Mono.Security.dll
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Npgsql.dll
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.CopyComplete
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\main_menu.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\main_menu.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\projects.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\projects.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\add_project.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\add_project.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe.config
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.pdb
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Mono.Security.dll
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Npgsql.dll
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csprojAssemblyReference.cache
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\add_project.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\projects.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\main_menu.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\log_in_form.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\add_project.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\projects.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\main_menu.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\log_in_form.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\other_stuff\App.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy_MarkupCompile.cache
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy_MarkupCompile.lref
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.g.resources
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects_Manager_Medexy.Properties.Resources.resources
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.GenerateResource.cache
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.CopyComplete
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.pdb
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\project_window.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\TabbedIMTest.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\test_file_upload.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\project_window.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\TabbedIMTest.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\test_file_upload.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\MainWindow.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\MainWindow.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\project_window.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\TabbedIMTest.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\test_file_upload.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\project_window.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\TabbedIMTest.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\test_file_upload.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArPazymetiKaipAtliktaTaska.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\Add_more_involved_to_project.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArPazymetiKaipAtliktaTaska.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\Add_more_involved_to_project.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\AddTasksToProject.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArTikraiIstrintiTaska.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\AddTasksToProject.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArTikraiIstrintiTaska.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArTikraiIstrintiTaska.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\AddTasksToProject.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArPazymetiKaipAtliktaTaska.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\Add_more_involved_to_project.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArTikraiIstrintiTaska.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\AddTasksToProject.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArPazymetiKaipAtliktaTaska.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\Add_more_involved_to_project.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\task_window.g.cs
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\task_window.baml
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe.manifest
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.application
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe.manifest
+C:\Users\Martynas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.application
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe.manifest
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.application
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\task_window.g.cs
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\task_window.baml
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe.manifest
+C:\Users\Uzer\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.application
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe.config
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe.manifest
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.application
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.pdb
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Mono.Security.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Npgsql.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csprojAssemblyReference.cache
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\add_project.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\projects.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\main_menu.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\log_in_form.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArTikraiIstrintiTaska.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\AddTasksToProject.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArPazymetiKaipAtliktaTaska.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\Add_more_involved_to_project.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\task_window.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\project_window.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\TabbedIMTest.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\add_project.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\test_file_upload.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\projects.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\main_menu.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\log_in_form.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\MainWindow.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\other_stuff\App.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy_MarkupCompile.cache
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy_MarkupCompile.lref
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArTikraiIstrintiTaska.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\AddTasksToProject.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArPazymetiKaipAtliktaTaska.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\Add_more_involved_to_project.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\task_window.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\project_window.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\TabbedIMTest.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\test_file_upload.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\MainWindow.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.g.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects_Manager_Medexy.Properties.Resources.resources
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.GenerateResource.cache
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe.manifest
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.application
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.CopyComplete
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.pdb
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\netstandard.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.AppContext.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Collections.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ComponentModel.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Console.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Data.Common.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Globalization.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.Compression.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.Pipes.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Linq.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Http.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Ping.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Primitives.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Requests.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Security.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Sockets.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ObjectModel.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Reflection.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Resources.Reader.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Resources.Writer.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Claims.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Principal.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.SecureString.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Text.Encoding.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Thread.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Timer.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XPath.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ValueTuple.dll
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Npgsql.pdb
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Npgsql.xml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ValueTuple.xml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe.config
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe.config
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe.manifest
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.application
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.exe
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Projects Manager Medexy.pdb
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\netstandard.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.AppContext.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Collections.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Collections.Specialized.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ComponentModel.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Console.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Data.Common.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Globalization.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.Compression.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.FileSystem.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.Pipes.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Linq.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Linq.Expressions.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Linq.Parallel.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Linq.Queryable.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Http.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.NameResolution.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Ping.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Primitives.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Requests.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Security.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.Sockets.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Net.WebSockets.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ObjectModel.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Reflection.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Resources.Reader.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Resources.Writer.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Handles.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Claims.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.Principal.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Security.SecureString.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Text.Encoding.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Tasks.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Thread.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Timer.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XDocument.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XPath.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Mono.Security.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Npgsql.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ValueTuple.dll
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Npgsql.pdb
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\Npgsql.xml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\bin\Debug\System.ValueTuple.xml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csprojAssemblyReference.cache
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe.config
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\add_project.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\projects.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\main_menu.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\log_in_form.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArTikraiIstrintiTaska.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\AddTasksToProject.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArPazymetiKaipAtliktaTaska.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\Add_more_involved_to_project.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\task_window.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\project_window.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\TabbedIMTest.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\add_project.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\test_file_upload.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\projects.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\main_menu.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\log_in_form.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\MainWindow.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\other_stuff\App.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy_MarkupCompile.cache
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy_MarkupCompile.lref
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArTikraiIstrintiTaska.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\AddTasksToProject.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\ArPazymetiKaipAtliktaTaska.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\Add_more_involved_to_project.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\task_window.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\project_window.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\TabbedIMTest.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\in process\test_file_upload.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\MainWindow.baml
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.g.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects_Manager_Medexy.Properties.Resources.resources
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.GenerateResource.cache
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.CoreCompileInputs.cache
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe.manifest
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.application
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.csproj.CopyComplete
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.exe
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\Projects Manager Medexy.pdb
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\AddNewUser.g.cs
+C:\Users\me\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\AddNewUser.baml
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\AddNewUser.g.cs
+C:\Users\Vartotojas\OneDrive - fsf.stud.vu.lt\darbas\projects\projects manager\Projects Manager Medexy\Projects Manager Medexy\obj\Debug\windows\Mazos formeles\AddNewUser.baml

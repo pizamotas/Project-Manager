@@ -1,0 +1,34 @@
+﻿<Window x:Name="myMainWindow" x:Class="Projects_Manager_Medexy.test13"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projects_Manager_Medexy"
+        mc:Ignorable="d"
+        Title="test13" Height="450" Width="800">
+    <Grid x:Name="mainGrid" SizeChanged="Grid_SizeChanged">
+        <Grid.LayoutTransform>
+            <ScaleTransform x:Name="ApplicationScaleTransform"
+                            CenterX="0"
+                            CenterY="0"
+                            ScaleX="{Binding ScaleValue, ElementName=myMainWindow}"
+                            ScaleY="{Binding ScaleValue, ElementName=myMainWindow}" />
+        </Grid.LayoutTransform>
+
+        <Button Content="Button" HorizontalAlignment="Left" Margin="540,35,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TabControl x:Name="Tab_control_test" HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" VerticalAlignment="Top" Width="525">
+            <TabItem Header="TabItem">
+                <Grid Background="White" Margin="0,0,-2,-128">
+                    <DataGrid HorizontalAlignment="Left" Height="187" Margin="0,10,0,0" VerticalAlignment="Top" Width="264"/>
+                    <DataGrid HorizontalAlignment="Left" Height="187" Margin="269,10,-37,0" VerticalAlignment="Top" Width="230"/>
+                    <TextBox x:Name="TabNameBox" HorizontalAlignment="Left" Height="38" Margin="0,202,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="499"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+
+
+    </Grid>
+</Window>

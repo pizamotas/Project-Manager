@@ -1,0 +1,267 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Projects_Manager_Medexy.main_menu"
+        Title="Pagrindinis Meniu" 
+        x:Name="myMainWindow"
+        Width="1920" Height="1080" WindowStartupLocation="CenterScreen" WindowState="Maximized" Loaded="myMainWindow_Loaded">
+    <Grid x:Name="MainGrid" SizeChanged="MainGrid_SizeChanged">
+        <Grid.LayoutTransform>
+            <ScaleTransform x:Name="ApplicationScaleTransform"
+                            CenterX="0"
+                            CenterY="0"
+                            ScaleX="{Binding ScaleValue, ElementName=myMainWindow}"
+                            ScaleY="{Binding ScaleValue, ElementName=myMainWindow}" />
+        </Grid.LayoutTransform>
+        <Grid Margin="0,0,0,0">
+            <Button Content="Projektai" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,66,0,0" Width="543" Height="51" Click="Button_Click"/>
+            <Button x:Name="test_btn_2" Content="Button" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="1359,35,0,0" Width="543" Height="51" Click="Button_Click_1"/>
+            <Button Content="Uždaryti" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,196,0,0" Width="543" Height="50" x:Name="Close_btn" Click="Close_btn_Click"/>
+            <Button Content="Pridėti projektą" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,10,0,0" Width="543" Height="51" Click="Button_Click_2"/>
+            <TabControl HorizontalAlignment="Left" Height="625" Margin="10,251,0,0" VerticalAlignment="Top" Width="1892">
+                <TabItem Header="Projektai" RenderTransformOrigin="3.733,7.741">
+                    <Grid Background="#FFE5E5E5">
+                        <DataGrid IsReadOnly="True" ItemsSource="{Binding}" x:Name="Projects_Dg" SelectionChanged="Projects_Dg_SelectionChanged" AutoGenerateColumns="False" Margin="10,46,762,10" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1114" Height="541"  >
+                            <DataGrid.Resources>
+                                <Style TargetType="DataGridRow">
+                                    <EventSetter Event="MouseDoubleClick" Handler="ProjectsDGDoubleClick"/>
+                                </Style>
+                            </DataGrid.Resources>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Pavadinimas" Width="*" Binding="{Binding name}"  >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding name}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Pradžia" Width="*" Binding="{Binding start_date, StringFormat=d}"   >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding start_date, StringFormat=d}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Pabaiga" Width="*" Binding="{Binding end_date, StringFormat=d}" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding end_date, StringFormat=d}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Komentaras" Width="*" Binding="{Binding comment}"  >
+
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding comment}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Dalyvauja" Width="*" Binding="{Binding involved}">
+
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding involved}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Sukūrė" Width="*" Binding="{Binding creator}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding creator}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <TextBox x:Name="ProjectSearchTb"  HorizontalAlignment="Left" Height="31" Margin="10,10,0,0" TextWrapping="Wrap" Text="Ieškoti" VerticalAlignment="Top" Width="412" TextChanged="Search_Tb_TextChanged" GotFocus="ProjectSearchTb_GotFocus"/>
+                        <DataGrid x:Name="ProjectCommentsDatagrid"  AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" HorizontalAlignment="Left" Margin="1129,46,0,10" Width="747">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Komentaras" Width="3*" Binding="{Binding comment}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                          <DataGridTextColumn Header="Vardas" Width="*" Binding="{Binding creator_public}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+<DataGridTextColumn Header="Data" Width="0.75*" Binding="{Binding date, StringFormat=d}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <Button x:Name="ClearSearchPro_Btn" Content="X" HorizontalAlignment="Left" Margin="427,10,0,0" VerticalAlignment="Top" Width="31" Click="ClearSearchPro_Btn_Click" RenderTransformOrigin="0.955,2.75" Height="31"/>
+                        <TextBox x:Name="ProjectCommentSearchTb"  HorizontalAlignment="Left" Height="31" Margin="1130,10,0,0" TextWrapping="Wrap" Text="Ieškoti" VerticalAlignment="Top" Width="412" TextChanged="ProjectCommentSearchTbTextChanged" GotFocus="ProjectCommentSearchTbGotFocus"/>
+                        <Button x:Name="ClearProjectCommentSearchTbBtn" Content="X" HorizontalAlignment="Left" Margin="1546,10,0,0" VerticalAlignment="Top" Width="32" Click="ClearProjectCommentSearchTbBtnClick" RenderTransformOrigin="0.955,2.75" Height="31"/>
+                    </Grid>
+                </TabItem>
+                <TabItem Header="Veiksmai">
+                    <Grid Background="#FFE5E5E5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0*"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <DataGrid AutoGenerateColumns="False" IsReadOnly="True" ItemsSource="{Binding}" x:Name="Tasks_Dg" HorizontalAlignment="Left" Margin="10,46,0,0" SelectionChanged="Tasks_Dg_SelectionChanged"  Grid.ColumnSpan="2" Width="1114" Height="541" VerticalAlignment="Top"  >
+                            <DataGrid.Resources>
+                                <Style TargetType="DataGridRow">
+                                    <EventSetter Event="MouseDoubleClick" Handler="Tasks_DgDoubleClick"/>
+                                </Style>
+                            </DataGrid.Resources>
+
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Pavadinimas" Width="*" Binding="{Binding name}" >
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding name}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Projektas" Width="*" Binding="{Binding project_name}" >
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding project_name}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Pradžia" Width="*" Binding="{Binding start_date, StringFormat=d}">
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding start_date, StringFormat=d}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Pabaiga" Width="*" Binding="{Binding end_date, StringFormat=d}">
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding end_date, StringFormat=d}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Komentaras" Width="*" Binding="{Binding comment}">
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding comment}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Atsakingas" Width="*" Binding="{Binding responsible}">
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding responsible}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Dalyvauja" Width="*" Binding="{Binding involved}">
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding involved}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Sukūrė" Width="*" Binding="{Binding creator}">
+                                    <DataGridTextColumn.CellStyle>
+                                        <Style TargetType="{x:Type DataGridCell}">
+                                            <Setter Property="ToolTip" Value="{Binding creator}" />
+                                        </Style>
+                                    </DataGridTextColumn.CellStyle>
+                                </DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <DataGrid x:Name="TaskCommentsDatagrid"  AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" HorizontalAlignment="Left" Margin="1129,46,0,10" Width="747" Grid.ColumnSpan="2">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Projektas" Width="*" Binding="{Binding project_name}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Komentaras" Width="3*" Binding="{Binding comment}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Vardas" Width="*" Binding="{Binding creator_public}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Header="Data" Width="0.75*" Binding="{Binding date, StringFormat=d}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style>
+                                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <Label Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="344" d:LayoutOverrides="HorizontalAlignment"/>
+                        <TextBox x:Name="TaskSearchTb" HorizontalAlignment="Right" Height="31" Margin="0,10,1464,0" TextWrapping="Wrap" Text="Ieškoti" VerticalAlignment="Top" Width="412" TextChanged="TaskSearch_Tb_TextChanged" Grid.ColumnSpan="2" GotFocus="TaskSearchTb_GotFocus"/>
+                        <Button x:Name="ClearTasksSearchBtn" Content="X" HorizontalAlignment="Left" Margin="427,10,0,0" VerticalAlignment="Top" Width="31" Click="ClearTasksSearchBtnClick" RenderTransformOrigin="0.955,2.75" Height="31" Grid.ColumnSpan="2"/>
+                    </Grid>
+                </TabItem>
+            </TabControl>
+            <Button x:Name="test_btn" Content="Button" HorizontalAlignment="Left" Margin="1827,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+            <StackPanel HorizontalAlignment="Left" Height="178" Margin="1263,57,0,0" VerticalAlignment="Top" Width="216" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+                <StackPanel.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="0.225"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </StackPanel.RenderTransform>
+                <Button Content="File uplad" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Click="Button_Click_4" IsEnabled="False"/>
+                <Button Content="Tabbed Im                     " HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Click="Button_Click_5" IsEnabled="False"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

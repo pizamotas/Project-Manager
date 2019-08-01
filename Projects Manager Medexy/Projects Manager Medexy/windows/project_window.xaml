@@ -1,0 +1,248 @@
+﻿<Window x:Name="myMainWindow" x:Class="Projects_Manager_Medexy.project_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projects_Manager_Medexy"
+        mc:Ignorable="d"
+        Title="Projektas" Height="790" Width="1720" Loaded="myMainWindow_Loaded" WindowStartupLocation="CenterOwner">
+    <Grid x:Name="grid" Margin="0,0,2,-21" SizeChanged="Grid_SizeChanged">
+
+        <Grid.LayoutTransform>
+            <ScaleTransform x:Name="ApplicationScaleTransform"
+                            CenterX="0"
+                            CenterY="0"
+                            ScaleX="{Binding ElementName=myMainWindow, Path=ScaleValue}"
+                            ScaleY="{Binding ElementName=myMainWindow, Path=ScaleValue}" />
+        </Grid.LayoutTransform>
+
+        <DataGrid x:Name="CommentsDataGrid" Height="232" Margin="608,10,0,0" VerticalAlignment="Top" Width="636"  AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" HorizontalAlignment="Left">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Pavadinimas" Width="*" Binding="{Binding name}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Komentaras" Width="3*" Binding="{Binding comment}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Vardas" Width="*" Binding="{Binding creator_public}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Data" Width="0.75*" Binding="{Binding date, StringFormat=d}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid AutoGenerateColumns="False" IsReadOnly="True" ItemsSource="{Binding}" x:Name="Tasks_Dg" HorizontalAlignment="Left" Margin="12,353,0,0" SelectionChanged="Tasks_Dg_SelectionChanged" Width="675" Height="317" VerticalAlignment="Top"  >
+            <DataGrid.Resources>
+                <Style TargetType="DataGridRow">
+                    <EventSetter Event="MouseDoubleClick" Handler="Tasks_DgDoubleClick"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Pavadinimas" Width="*" Binding="{Binding name}" >
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding name}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Projektas" Width="*" Binding="{Binding project_name}" >
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding project_name}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Pradžia" Width="*" Binding="{Binding start_date, StringFormat=d}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding start_date, StringFormat=d}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Pabaiga" Width="*" Binding="{Binding end_date, StringFormat=d}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding end_date, StringFormat=d}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Komentaras" Width="*" Binding="{Binding comment}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding comment}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Atsakingas" Width="*" Binding="{Binding responsible}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding responsible}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Dalyvauja" Width="*" Binding="{Binding involved}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding involved}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Sukūrė" Width="*" Binding="{Binding creator}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding creator}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridCheckBoxColumn Header="Atliktas" Width="*" Binding="{Binding completed}">
+                </DataGridCheckBoxColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid AutoGenerateColumns="False" IsReadOnly="True" ItemsSource="{Binding}" x:Name="TaskComentsDataGrid" HorizontalAlignment="Left" Margin="692,353,0,0"  Width="568" Height="266" VerticalAlignment="Top"  >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Komentaras" Width="3*" Binding="{Binding comment}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding comment}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Vardas" Width="*" Binding="{Binding creator_public}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="{x:Type DataGridCell}">
+                            <Setter Property="ToolTip" Value="{Binding comment}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Header="Data" Width="*" Binding="{Binding date, StringFormat=d}" >
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Veiksmo komentarai" HorizontalAlignment="Left" Margin="692,321,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label x:Name="PavadinimasLabel" Content="Pavadinimas" HorizontalAlignment="Left" Margin="97,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="506"/>
+        <Label x:Name="StartDatelabel" Content="Pradzios data" HorizontalAlignment="Left" Margin="97,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="506"/>
+        <Label x:Name="endDatalabel" HorizontalAlignment="Left" Margin="97,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="506"/>
+        <Label x:Name="CreatorLaabel" Content="Sukure" HorizontalAlignment="Left" Margin="97,103,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="506"/>
+        <Label x:Name="PavadinimasLabel_Copy"  Content="Pavadinimas:" HorizontalAlignment="Left" Margin="18,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="79"/>
+        <Label x:Name="StartDatelabel_Copy" Content="Pradžios data:" HorizontalAlignment="Left" Margin="12,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="85"/>
+        <Label x:Name="endDatalabel_Copy" Content="Pabaigos data:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="87"/>
+        <Label x:Name="CreatorLaabel_Copy" Content="Sukūrė:" HorizontalAlignment="Left" Margin="48,103,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="49"/>
+        <DataGrid x:Name="InvolvedDatagid" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="100" Margin="298,165,0,0" VerticalAlignment="Top" Width="198">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Vardas" Width="*" Binding="{Binding involved}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="InvolvedLabel" Content="Dalyvauja" HorizontalAlignment="Left" Margin="298,134,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="92"/>
+        <Button Content="Pridėti" HorizontalAlignment="Left" Margin="298,270,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.473,-0.65"/>
+        <Label x:Name="CommentLabel" Content="komentaras:" HorizontalAlignment="Left" Margin="23,134,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.25,-0.442" Width="74"/>
+        <Label Content="Veiksmai" HorizontalAlignment="Left" Margin="12,294,0,0" VerticalAlignment="Top" Width="140"/>
+        <TextBox x:Name="TasksSsearchBox" HorizontalAlignment="Left" Height="23" Margin="12,325,0,0" TextWrapping="Wrap" Text="Ieškoti" VerticalAlignment="Top" Width="120" GotFocus="TasksSsearchBox_GotFocus" TextChanged="TasksSsearchBox_TextChanged"/>
+        <RichTextBox x:Name="CommentTextBox" IsReadOnly="True" HorizontalAlignment="Left" Height="100" Margin="10,165,0,0" VerticalAlignment="Top" Width="283">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <TextBox x:Name="AddCommentTb" AllowDrop="True" HorizontalAlignment="Left" Height="46" Margin="692,624,0,0" TextWrapping="Wrap" Text="Pridėti komentarą" VerticalAlignment="Top" Width="489" GotFocus="AddCommentTb_GotFocus" DragOver="AddCommentTb_DragOver" Drop="AddCommentTb_Drop" DragLeave="AddCommentTb_DragLeave" PreviewDragOver="AddCommentTb_PreviewDragOver"/>
+        <Button x:Name="AddTaskCommentBtn" Content="Pridėti" HorizontalAlignment="Left" Margin="1186,624,0,0" VerticalAlignment="Top" Width="74" Click="AddTaskCommentBtn_Click" Height="46"/>
+        <Button x:Name="AddMoreTasksBtn" Content="Pridėti veiksmus" HorizontalAlignment="Left" Margin="527,325,0,0" VerticalAlignment="Top" Width="155" Click="AddMoreTasksBtn_Click"/>
+        <Button Content="Uždaryti" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="1102,700,0,0" Width="155" Height="46" x:Name="Close_btn" Click="Close_btn_Click"/>
+        <TextBox x:Name="AddProjectCommentTb" AllowDrop="True" HorizontalAlignment="Left" Height="52" Margin="676,247,0,0" TextWrapping="Wrap" Text="Pridėti komentarą" VerticalAlignment="Top" Width="489" GotFocus="AddProjectCommentTb_OnGotFocus" Drop="AddProjectCommentTb_Drop" DragOver="AddProjectCommentTb_DragOver" DragLeave="AddProjectCommentTb_DragLeave" PreviewDragOver="AddProjectCommentTb_PreviewDragOver"/>
+        <Button x:Name="AddProjectCommentBtn" Content="Pridėti" HorizontalAlignment="Left" Margin="1170,247,0,0" VerticalAlignment="Top" Width="74" Click="AddProjectCommentBtnClick" Height="52"/>
+        <DataGrid x:Name="ProjectFilesDg" Height="310" Margin="1278,10,0,0" VerticalAlignment="Top" Width="402"  AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" HorizontalAlignment="Left">
+            <DataGrid.Resources>
+                <Style TargetType="DataGridRow">
+                    <EventSetter Event="MouseDoubleClick" Handler="ProjectFilesDg_DoubleClick"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Autorius" Width="*" Binding="{Binding uploader_name}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Pavadinimas" Width="3*" Binding="{Binding file_name}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Įkėlimo data" Width="0.75*" Binding="{Binding date_uploaded, StringFormat=d}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="TaskFilesDg" Height="310" Margin="1278,353,0,0" VerticalAlignment="Top" Width="402"  AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" HorizontalAlignment="Left">
+            <DataGrid.Resources>
+                <Style TargetType="DataGridRow">
+                    <EventSetter Event="MouseDoubleClick" Handler="TaskFilesDg_DoubleClick"/>
+                </Style>
+            </DataGrid.Resources>
+        <DataGrid.Columns>
+                <DataGridTextColumn Header="Autorius" Width="*" Binding="{Binding uploader_name}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Pavadinimas" Width="3*" Binding="{Binding file_name}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Įkėlimo data" Width="0.75*" Binding="{Binding date_uploaded, StringFormat=d}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+
+
+    </Grid>
+</Window>
